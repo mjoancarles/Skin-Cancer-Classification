@@ -4,3 +4,5 @@ Pillow
 numpy
 pandas
 opencv-python
+pillow
+opencv-python
